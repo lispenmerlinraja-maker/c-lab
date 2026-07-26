@@ -2,18 +2,31 @@
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        Console.Write("Enter a number: ");
-        int num = Convert.ToInt32(Console.ReadLine());
+        int num1, num2;
 
-        if (num % 2 == 0)
+        Console.WriteLine("----- Largest of Two Numbers -----");
+
+        Console.Write("Enter First Number: ");
+        num1 = Convert.ToInt32(Console.ReadLine());
+
+        Console.Write("Enter Second Number: ");
+        num2 = Convert.ToInt32(Console.ReadLine());
+
+        if (num1 > num2)
         {
-            Console.WriteLine("Even Number");
+            Console.WriteLine(num1 + " is the Largest Number.");
+        }
+        else if (num2 > num1)
+        {
+            Console.WriteLine(num2 + " is the Largest Number.");
         }
         else
         {
-            Console.WriteLine("Odd Number");
+            Console.WriteLine("Both numbers are Equal.");
         }
+
+        Console.WriteLine("Program Executed Successfully.");
     }
 }
