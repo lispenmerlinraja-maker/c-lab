@@ -1,0 +1,15 @@
+/workspaces/c-lab/bin/Debug/net10.0/c-lab
+/workspaces/c-lab/bin/Debug/net10.0/c-lab.deps.json
+/workspaces/c-lab/bin/Debug/net10.0/c-lab.runtimeconfig.json
+/workspaces/c-lab/bin/Debug/net10.0/c-lab.dll
+/workspaces/c-lab/bin/Debug/net10.0/c-lab.pdb
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.AssemblyInfoInputs.cache
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.AssemblyInfo.cs
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.csproj.CoreCompileInputs.cache
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.sourcelink.json
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.dll
+/workspaces/c-lab/obj/Debug/net10.0/refint/c-lab.dll
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.pdb
+/workspaces/c-lab/obj/Debug/net10.0/c-lab.genruntimeconfig.cache
+/workspaces/c-lab/obj/Debug/net10.0/ref/c-lab.dll
